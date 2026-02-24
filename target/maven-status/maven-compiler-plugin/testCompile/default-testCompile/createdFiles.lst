@@ -1,0 +1,4 @@
+be\pxl\cargo\api\ShipmentControllerTest.class
+be\pxl\cargo\domain\ShipmentTest.class
+be\pxl\cargo\api\CargoControllerTest.class
+be\pxl\cargo\service\CargoServiceTest.class

@@ -1,0 +1,17 @@
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\api\CargoController.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\api\request\CreateCargoRequest.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\api\response\CargoStatistics.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\api\response\ShipmentStatistics.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\api\ShipmentController.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\CargoApplication.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\domain\Cargo.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\domain\CargoStatus.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\domain\Location.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\domain\Shipment.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\exceptions\NonUniqueCodeException.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\exceptions\ResourceNotFoundException.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\exceptions\ShipmentException.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\repository\CargoRepository.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\repository\ShipmentRepository.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\service\CargoService.java
+C:\Users\12400793\Documents\25-26\javaExpert\ass_1\src\main\java\be\pxl\cargo\service\ShipmentService.java

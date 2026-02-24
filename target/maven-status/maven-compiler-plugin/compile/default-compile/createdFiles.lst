@@ -1,0 +1,17 @@
+be\pxl\cargo\api\ShipmentController.class
+be\pxl\cargo\exceptions\ResourceNotFoundException.class
+be\pxl\cargo\repository\CargoRepository.class
+be\pxl\cargo\api\response\ShipmentStatistics.class
+be\pxl\cargo\domain\Shipment.class
+be\pxl\cargo\domain\CargoStatus.class
+be\pxl\cargo\domain\Cargo.class
+be\pxl\cargo\service\CargoService.class
+be\pxl\cargo\domain\Location.class
+be\pxl\cargo\api\request\CreateCargoRequest.class
+be\pxl\cargo\api\CargoController.class
+be\pxl\cargo\service\ShipmentService.class
+be\pxl\cargo\CargoApplication.class
+be\pxl\cargo\exceptions\ShipmentException.class
+be\pxl\cargo\api\response\CargoStatistics.class
+be\pxl\cargo\exceptions\NonUniqueCodeException.class
+be\pxl\cargo\repository\ShipmentRepository.class
